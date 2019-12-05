@@ -1,5 +1,5 @@
 {
-  "name": "R7FrontendTest",
+  "name": "frontendtest",
   "version": "0.0.1",
   "scripts": {
     "start": "node app.js"
@@ -7,5 +7,21 @@
   "dependencies": {
     "connect": "~3.1.1",
     "serve-static": "~1.5.3"
-  }
+  },
+  "description": "O R7.com é um portal mantido pela Record TV, com quase 10 anos de vida. Possui mais de 50 milhões de visitantes únicos e média de 200 milhões de pageviews mensalmente e conta coma uma equipe de quase 300 pessoas.",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r7com/frontend-test.git"
+  },
+  "author": "Kaique Bernardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r7com/frontend-test/issues"
+  },
+  "homepage": "https://github.com/r7com/frontend-test#readme"
 }
